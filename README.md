@@ -79,13 +79,8 @@ jobs:
 ## Compliance and Technical Standards
 
 - **Compliance Standard**: OWASP Top 10 for LLM Applications & MITRE ATLAS
-- **Maintaining Organization**: [TAVARDT-UK](https://github.com/TAVARDT-UK)
 
-## Official Portals
 
-- **Main National Portal**: [Portal Institucional](https://ag.tavardt.com/uk/)
-- **Tools Hub**: [Central de Ferramentas](https://tools.tavardt.com/uk/)
-- **Technical Support Channel**: [Canal de Contato](https://ag.tavardt.com/uk/contact/)
 
 ***
 
