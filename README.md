@@ -1,4 +1,4 @@
-# Interactive AI Threat Matrix & Defense Blueprint
+# Interactive AI Threat Matrix & Defence Blueprint
 
 [![Live Demo](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-38bdf8?style=for-the-badge)](https://tavardt-uk.github.io/ai-threat-matrix-uk/)
 [![Standard](https://img.shields.io/badge/Standard-OWASP%20LLM%20%26%20MITRE-3b82f6?style=for-the-badge)](https://tavardt-uk.github.io/ai-threat-matrix-uk/)
@@ -81,6 +81,15 @@ jobs:
 - **Compliance Standard**: OWASP Top 10 for LLM Applications & MITRE ATLAS
 
 
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: [TAVARDT UK Diagnostic Suite](https://tools.tavardt.com/uk/)
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
 
 ***
 
